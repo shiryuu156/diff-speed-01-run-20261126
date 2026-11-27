@@ -1,5 +1,9 @@
 # Diff two texts faster — entry for diff-speed-01-run-20261126
 
+[![make.fun](https://make.fun/badge/diff-speed-01-run-20261126.svg)](https://make.fun/c/diff-speed-01-run-20261126)
+[![rank](https://make.fun/badge/diff-speed-01-run-20261126/shiryuu156/diff-speed-01-run-20261126/rank.svg)](https://make.fun/c/diff-speed-01-run-20261126)
+[![reward](https://make.fun/badge/diff-speed-01-run-20261126/shiryuu156/diff-speed-01-run-20261126/reward.svg)](https://make.fun/c/diff-speed-01-run-20261126)
+
 A faster drop-in for makefun-diff 1.0.0. `solve.js` returns exactly
 makefun-diff's patch for every input, computed by the reference's own rule:
 
